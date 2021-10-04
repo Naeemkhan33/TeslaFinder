@@ -1,0 +1,67 @@
+@font-face {
+    font-family: 'Plus Jakarta Display';
+    src: url('PlusJakartaDisplay-Bold.woff2') format('woff2'),
+        url('PlusJakartaDisplay-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plus Jakarta Display';
+    src: url('PlusJakartaDisplay-Medium.woff2') format('woff2'),
+        url('PlusJakartaDisplay-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plus Jakarta Display';
+    src: url('PlusJakartaDisplay-Light.woff2') format('woff2'),
+        url('PlusJakartaDisplay-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plus Jakarta Text';
+    src: url('PlusJakartaText-Bold.woff2') format('woff2'),
+        url('PlusJakartaText-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plus Jakarta Text';
+    src: url('PlusJakartaText-Regular.woff2') format('woff2'),
+        url('PlusJakartaText-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plus Jakarta Text';
+    src: url('PlusJakartaText-Light.woff2') format('woff2'),
+        url('PlusJakartaText-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plus Jakarta Display';
+    src: url('PlusJakartaDisplay-Regular.woff2') format('woff2'),
+        url('PlusJakartaDisplay-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+body { 
+     font-family: 'Plus Jakarta Display' !important;
+}
